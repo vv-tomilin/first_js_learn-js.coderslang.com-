@@ -1,0 +1,1 @@
+export const strings = ['one', 'two', 'three', 'four', 'five'];
